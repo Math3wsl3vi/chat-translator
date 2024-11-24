@@ -30,7 +30,7 @@ export default function RootLayout({
     <ClientProviders>
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className='flex flex-col min-h-screen'
       >
         <ThemeProvider
                     attribute="class"

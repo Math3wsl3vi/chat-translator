@@ -10,7 +10,7 @@ const Logo = () => {
             <AspectRatio
             ratio={16/9}
             className='flex items-center justify-center' >
-                <h1 className='font-semibold text-2xl'>Chat With Anyone</h1>
+                <h1 className='font-semibold text-2xl'>Medical Translator</h1>
             </AspectRatio>
         </div>
     </Link>
